@@ -23,8 +23,8 @@ INSERT INTO `products` (`id`, `name`, `price`) VALUES
 (12, 'Maverick', 20000),
 (13, 'Vietlott', 10000),
 (14, 'MTV Thu do', 10000),
-(15, 'XSKT Quảng Trị', 10000),
-(16, 'XSKT Bình Dương', 10000);
+(15, 'XSKT Quang Tri', 10000),
+(16, 'XSKT Binh Duong', 10000);
 
 CREATE TABLE `users` (
   `id` int(11) NOT NULL,
